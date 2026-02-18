@@ -39,7 +39,7 @@ Oracle PL/SQL • Database Design • SQL • Big Data Processing
 React-based emergency communication platform with role-based access (Student, Admin, Security)
 
 Repository:  
-https://github.com/lamasu94/emergency-alert-system
+https://github.com/lamasu94/Emergeny-alert-System
 
 
 ---
