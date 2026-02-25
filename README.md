@@ -13,7 +13,6 @@
 ### 👩‍💻 Programming Languages
 ![Java](https://skillicons.dev/icons?i=java)
 ![Python](https://skillicons.dev/icons?i=python)
-![C](https://skillicons.dev/icons?i=c)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 
 ### 🌐 Frontend Development
