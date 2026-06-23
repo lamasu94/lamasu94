@@ -1,74 +1,47 @@
+# Hi, I'm Lama 👋
 
+🎓 Software Engineering student at AUCA  
+💻 Passionate about software development, data-driven systems, and problem solving  
+🚀 Building full-stack applications, machine learning solutions, and modern software systems  
+📍 Kigali, Rwanda  
 
-# Hi, I'm Lama  👋
-
-🎓 Software Engineering student  
-🚀 Passionate about building real-world systems and solving problems  
-📍 Currently building full-stack and database-driven applications  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lama%20Suleiman-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lama-suleiman-560b841ba/)
 
 ---
 
 ## 🚀 Tech Stack
 
 ### 👩‍💻 Programming Languages
+
 ![Java](https://skillicons.dev/icons?i=java)
 ![Python](https://skillicons.dev/icons?i=python)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 
+
 ### 🌐 Frontend Development
+
 ![React](https://skillicons.dev/icons?i=react)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 
-### 🛢️ Database & Big Data
-![Oracle](https://skillicons.dev/icons?i=mysql)
-![Python](https://skillicons.dev/icons?i=python)
+### ⚙️ Backend Development
 
-Oracle PL/SQL • Database Design • SQL • Big Data Processing
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
 
-### 🛠️ Tools & Platforms
+### 🛢️ Databases
+
+![MySQL](https://skillicons.dev/icons?i=mysql)
+
+MySQL • SQL • Database Design
+
+### ☁️ Tools & Platforms
+
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![VSCode](https://skillicons.dev/icons?i=vscode)
+![Docker](https://skillicons.dev/icons?i=docker)
 
----
-## 📂 Featured Projects
-
-### 🚨 Emergency Alert System
-React-based emergency communication platform with role-based access (Student, Admin, Security)
-
-Repository:  
-https://github.com/lamasu94/Emergeny-alert-System
-
-
----
-
-### 📚 Library Management System
-Oracle PL/SQL database system for managing books, users, borrowing, and returns
-
-Features:
-• Stored Procedures  
-• Triggers  
-• Database normalization  
-• Role-based database access  
-
-Repository:  
-https://github.com/lamasu94/Pyrthian
-
-
----
-
-### 📊 EduStat – Big Data Education Analytics Project
-Big data analytics system built using Python for analyzing educational datasets
-
-Features:
-• Data processing  
-• Statistical analysis  
-• Data visualization  
-• Large dataset handling  
-
-Repository:  
-https://github.com/lamasu94/Edusta-Bigdata-Projection
 
 ---
 
@@ -76,21 +49,20 @@ https://github.com/lamasu94/Edusta-Bigdata-Projection
 
 ![Lama's GitHub stats](https://github-readme-stats.vercel.app/api?username=lamasu94&show_icons=true&theme=default)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lamasu94&layout=compact)
+
 ---
 
 ## 🎯 Current Focus
 
-• Full Stack Development with React  
-• Database Systems with Oracle PL/SQL  
-• Big Data Analytics  
+• Full Stack Development with React and Node.js  
+• Machine Learning Applications  
 • Software Engineering Projects  
 
 ---
 
 ## 🌱 Always Learning
 
-Building systems that combine:
+Building solutions that combine:
 
-Frontend + Backend + Database + Analytics
-
-
+**Frontend + Backend + Databases + DevOps + Machine Learning**
